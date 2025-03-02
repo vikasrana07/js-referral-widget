@@ -13,7 +13,7 @@ This JavaScript widget adds a floating referral popup button to any website. Use
 To add the referral popup to your website, insert the following script tag inside the `<head>` section:
 
 ```html
-<script type="text/javascript" defer src="https://app.referralrocket.io/widget/referralPopup.js"
+<script type="text/javascript" defer src="referralPopup.js"
      data-placement="right"
      data-text="Refer And Earn"
      data-text-color="#ffffff"
